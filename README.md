@@ -148,13 +148,6 @@
 
 - **Description**: Done the sentiment analysis on the dataset, utilizing the spicy pipeline for the prediction of the sentiment of a given statement. At the end deploy the app with Streamlit application.
 - **Tech/Language**: NLTK, Streamlit, Python
-- **Links**: nan
-
-### 26. nan
-
-- **Description**: nan
-- **Tech/Language**: nan, nan
-- **Links**: nan
 
 ### 27. Termux Api Interfase
 
