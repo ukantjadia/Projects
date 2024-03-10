@@ -2,20 +2,20 @@
 
 ### 1. Heart Disease Classification with ECG
 
-- **Description**: Classifcation of 5 major types of disease/disorder from ECG dataset of PTB-XL ECG dataset(21K+ sample from 18K+ patients)
-- **Tech/Language**: wfdb, Tensorflow, keras, classification algorithm, Python Docker, Shell
+- **Description**: Classification of 5 major types of disease/disorder from ECG dataset of PTB-XL ECG dataset(21K+ sample from 18K+ patients)
+- **Tech/Language**: wfdb, Tensorflow, Keras, classification algorithm, Python Docker, Shell
 - **Links**: <https://github.com/ukantjadia/Heart-Disease-Classification-with-Electrocardiogram>
 
 ### 2. Blooms Taxonomy Level Detection
 
-- **Description**: Developed a MLOps project using flask, NLP-aug, MlFlow, Pipeline. Effortless classifies questions in Blooms taxonomy level with 90%accuracy, thanks to NLP-Aug. Created a Docker image and pushed to Docker Hub. Added prediction API for utilization purposes for HEIs following OBE.
-- **Tech/Language**: NLP-aug, MLOps, Docker, Oops, Python,Docker
+- **Description**: Developed a MLOps project using Flask, NLP-aug, MlFlow, and Pipeline. Effortless classifies questions in Bloom's taxonomy level with 90%accuracy, thanks to NLP-Aug. Created a Docker image and pushed it to Docker Hub. Added prediction API for utilization purposes for HEIs following OBE.
+- **Tech/Language**: NLP-aug, MLOps, Docker, Oops, Python, Docker
 - **Links**: <https://github.com/ukantjadia/Boolm-s-Level-Detection-A-MLOPS-Project>
 
 ### 3. Wine Quality Prediction - A MLOps Project
 
 - **Description**: The main focus of this project is to practice the stages and workflow of MLOps, dividing the project into 6 different stages,  each stage contains its entity, configuration, and component each of which can be directly modified from the corresponding yaml files. In the end, used the docker and aws EC2 for the deployment of the model with Flask API.
-- **Tech/Language**: MLFlow, MLOps, Docker, Oops, Python,Docker,Shell
+- **Tech/Language**: MLFlow, MLOps, Docker, Oops, Python, Docker, Shell
 - **Links**: <https://github.com/ukantjadia/MLOPS-Wine-Quality-Prediction/>
 
 ### 4. COVID-19 EDA
@@ -27,12 +27,12 @@
 ### 5. OBE(Outcome Based Education)
 
 - **Description**: Our project changes how we assess education. We match what students learn in each course with what the program aims to achieve. This helps students develop better, improves programs, and lets us see how students are doing. We use this information to make education even better//This was my major project, in which we tried to create a web interface for teachers to add student details.
-- **Tech/Language**: PHP, MySQL, PHP, MySQL,Jquery, HTML
+- **Tech/Language**: PHP, MySQL, PHP, MySQL, Jquery, HTML
 - **Links**: <https://github.com/ukantjadia/OBE-Module-for-University>
 
 ### 6. Smart Loan Model
 
-- **Description**: This model is trained on a loan dataset with parameters like monthly income, gender, married, self-dependent, property_area, etc. This model uses all the real-life factors and parameters to detect weather a loan should be given to the person or not. It helps banking or loan departments to make the informed decision
+- **Description**: This model is trained on a loan dataset with parameters like monthly income, gender, married, self-dependent, property_area, etc. This model uses all the real-life factors and parameters to detect whether a loan should be given to the person or not. It helps banking or loan departments make an informed decision
 - **Tech/Language**: ML, Classification, , Python, Shell, Dart
 - **Links**: <https://github.com/ukantjadia/Loan-Prediction-Application>
 
@@ -44,8 +44,8 @@
 
 ### 8. Food Image Classification
 
-- **Description**: Used the 5K image dataset for classifying the food images and non-food images, Trained the neural network on the images for classification, and deploty the model with streamlit application with 80% accuracy.
-- **Tech/Language**: OpenCV, CNN, Tensorflow,Keras, Python, Docker
+- **Description**: Used the 5K image dataset for classifying the food images and non-food images, Trained the neural network on the images for classification, and developed the model with streamlit application with 80% accuracy.
+- **Tech/Language**: OpenCV, CNN, Tensorflow, Keras, Python, Docker
 - **Links**: <https://github.com/ukantjadia/Food-Image-Classification-MLops/>
 
 ### 9. Image Handling and Managing
@@ -63,12 +63,12 @@
 ### 11. EDA Template
 
 - **Description**: I created a template for doing the high-quality EDA of a given dataset, all basic required code blocks for analysis(univariate, bivariate, etc.) are already written. also created the template for the implementation of Machine Learning algorithms for an ideal dataset - it was hard to generalize a single template for different kinds of dataset
-- **Tech/Language**: ML , Data Science, Python, Shell, Dart
+- **Tech/Language**: ML, Data Science, Python, Shell, Dart
 - **Links**: <https://github.com/ukantjadia/EDA-Template>
 
 ### 12. WiseMonkey77
 
-- **Description**: This was an X(Twitter) bot that posted images containing a quote taken from the best quote REST API, every 24 hours, using cron jobs. I utilize the pillow library for adding quotes on the image. It generate images tweets them and also add them to the local database
+- **Description**: This was an X(Twitter) bot that posted images containing a quote taken from the best quote REST API, every 24 hours, using cron jobs. I utilize the pillow library for adding quotes on the image. It generates images tweets them and also adds them to the local database
 - **Tech/Language**: Bot, Unix, Cron Job, Python, shell
 - **Links**: <https://github.com/ukantjadia/WiseMonkey77>
 
@@ -92,7 +92,7 @@
 
 ### 16. Static Onboarding Questions
 
-- **Description**: This was the project of my internship, I create a user interface consisting of several onboarding forms for the Grading(A abroad study app) application
+- **Description**: This was the project of my internship, I created a user interface consisting of several onboarding forms for the Grading(A abroad study app) application
 - **Tech/Language**: Firebase, Flutter, php for API, Dart
 - **Links**: <https://github.com/ukantjadia/Static-Onboarding-Questions>
 
@@ -110,7 +110,7 @@
 
 ### 19. Dynamic Onboarding Questions
 
-- **Description**: This was the initial stage requirement of the Gradding App. In this whole onboarding was dependent on the REST API. The design and flexibility of app are fully supported with any changes and modifications of the API in term of its content (no. of que, option, type of ques)
+- **Description**: This was the initial stage requirement of the Gradding App. This whole onboarding was dependent on the REST API. The design and flexibility of the app are fully supported with any changes and modifications of the API in terms of its content (no. of que, option, type of ques)
 - **Tech/Language**: Flutter, Dart
 - **Links**: <https://github.com/ukantjadia/Dynamic-On-Boarding-Questions>
 
@@ -128,19 +128,19 @@
 
 ### 22. YT-PRO
 
-- **Description**: An automated YT-Shorts channel, this project contains a shell script that searches a given title on YouTube and then creates another short video from a small snap of multiple shorts gather from that topic
-- **Tech/Language**:  ffmpeg, wget,Shell, Linux, bash,
+- **Description**: An automated YT-Shorts channel, this project contains a shell script that searches a given title on YouTube and then creates another short video from a small snap of multiple shorts gathered from that topic
+- **Tech/Language**:  FFmpeg, wget, Shell, Linux, bash,
 - **Links**: <https://github.com/ukantjadia/yt-pro>
 
 ### 23. NLTK text Processing on Twtties Dataset
 
-- **Description**: Utilizes the BeautifulSoup and HTML scraping for scraping the tweets from the tweeter and doing the sentiment analysis. the main focus of this project is to develop the report based on the people's reaction towards the new technology ChatGPT. Also used the NLTK and Spacy library of text/tweet handling and sentiment Analysis.
+- **Description**: Utilizes the BeautifulSoup and HTML scraping for scraping the tweets from the tweeter and doing the sentiment analysis. the main focus of this project is to develop the report based on the people's reaction towards the new technology ChatGPT. Also used the NLTK and Spacy libraries for text/tweet handling and sentiment Analysis.
 - **Tech/Language**: NLTK, Spacy, , Python, Shell, Dart
 - **Links**: <https://github.com/ukantjadia/NLTK>
 
 ### 24. Cluster Prediction
 
-- **Description**: This was a basic project with in-depth detailing of each action to find the optimal number of cluster for a given dataset.
+- **Description**: This was a basic project with in-depth detailing of each action to find the optimal number of clusters for a given dataset.
 - **Tech/Language**: ML, Clustering, Python
 - **Links**: <https://github.com/ukantjadia/TSF-GRIP-Tasks/tree/Main/Task-02>
 
@@ -151,6 +151,6 @@
 
 ### 27. Termux Api Interfase
 
-- **Description**: In this project I want to control a android phone with functionality of termux api and with the help of user interface build in the flutter web
+- **Description**: In this project, I want to control an Android phone with the functionality of Termux API and with the help of a user interface built into the Flutter web
 - **Tech/Language**: flutter, Android Termux, Dart, shell, python
 - **Links**: nan
